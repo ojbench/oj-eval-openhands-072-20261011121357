@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-#include <cstdint>
+#include <stdint.h>
 #include <string>
 #include <sstream>
 #include <iomanip>
